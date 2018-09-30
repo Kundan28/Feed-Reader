@@ -22,6 +22,7 @@ a {
 
 a:hover h2 {
     text-decoration: underline;
+    color: #02B3E4;
 }
 
 h1 {
